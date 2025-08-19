@@ -18,13 +18,9 @@ A lightweight, Python-based GUI application for downloading videos in 4K resolut
 ## Installation
 
 ### 1. Using the Executable
-1. Download the latest release from the `dist` folder.
-2. Run `23s_4K_Downloader.exe`.
+1. Download the latest release.
+2. Run `23s_4K_Downloader.exe` as ADMINISTRATOR.
 3. Start downloading videos immediately.
 
-### 2. Using Source Code (Python)
-1. Clone this repository:
-
 ```bash
-git clone <your-repo-url>
-cd 23s_4K_Downloader
+RUN AS ADMINISTRATOR TO MAKE SURE EVERYTHING WORKS DUE TO PYTHON DEPENDENCIES!
