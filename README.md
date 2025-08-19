@@ -2,6 +2,11 @@
 
 A lightweight, Python-based GUI application for downloading videos in 4K resolution using **yt-dlp**. Built with **PyQt5**, packaged as a standalone executable with **PyInstaller**.
 
+
+<img width="1004" height="768" alt="image" src="https://github.com/user-attachments/assets/b8d7d0a6-30e7-4843-ae16-08805eeb6ae8" />
+
+
+
 ---
 
 ## Features
@@ -24,3 +29,4 @@ A lightweight, Python-based GUI application for downloading videos in 4K resolut
 
 ```bash
 RUN AS ADMINISTRATOR TO MAKE SURE EVERYTHING WORKS DUE TO PYTHON DEPENDENCIES!
+
